@@ -25,7 +25,7 @@ def printResult(file, response):
         print("def_time: ", scans[i]["def_time"])
 
 sha256 = hashlib.sha256()
-api_key = "<Enter your own api_key>"
+api_key = "<Enter your own API key>"
 if len (sys.argv) < 2:
     print("ERROR! Please specify the target file.")
     print("For example: python3 main.py <FILE_NAME> \n")
