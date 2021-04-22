@@ -59,7 +59,7 @@ else:
                     break
 
                 print("Done!")
-                printResult(sys.argv[1], response)
+            printResult(sys.argv[1], response)
     else:
         print("Hash Found!")
         printResult(sys.argv[1], response)
