@@ -1,5 +1,5 @@
 # OPSWAT-Assessment
-This is simple python program to scan a file against OPSWATs metadefender.opswat.com API. I used python 3.8 environment and successfully run and tested the program on both Ubuntu 18.04 and Windows. I also used -sys, -hashlib, -requests packages.
+This is simple python program to scan a file against OPSWATs metadefender.opswat.com API. I used python 3.8 environment and successfully run and tested the program on both Ubuntu 18.04 and Windows. I also used -sys, -hashlib, -requests and -json packages.
 
 # How to execute the program
 The project structure consists of two files i.e main.py and dummy.txt. The file main.py defines the main logic and dummy.txt is sample file to be tested. In the main.py file for "api_key" variable you can provide your own api key. 
